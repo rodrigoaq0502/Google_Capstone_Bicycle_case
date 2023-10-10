@@ -17,17 +17,22 @@ These are the deliverables our stakeholders our looking for:
 4. A summary of your analysis
 5. Supporting visualizations and key findings
 6. Your top three recommendations based on your analysis
-7. 
+   
 Business Task:
 Learn the key differences between the members and the casual users of the bike system to understand their behavior and seek the way to encourage casual users to become members.
 Data sources:
+
 The trips data is data coming from the same company therefore it’s a reliable source of data.
 
 ## Conclusions:
 From the analysis and the graphs presented we can conclude that member users utilize the bikes in a more consistent way than the casual users, even though the casual users have longer trips on average they have less trips by week and month compared. The members most likely use the bikes to work while the casual for pleasure and to see the city. 
+
 Casual members could be more inclined to acquire an annual membership if this one could be  charged by month and perhaps used for limited trips and with promotions for the weekend so they can merge more with the brand and see us as the best option.
+
 Cyclistic could use social media, specially “Tik Tok” to promote trips specially for casual members and users that bike for pleasure, we could also look for a map in the app for places to visit and be guided by the Cyclistic app on their phone along with promotions that if you visit a restaurant with the bike you get a little discount and if you are a member the discount is greater. 
 ## Recommendations 
 1)Focus on the casuals and the way they use the app, if they use for touristic or pleasure purposes the best way to get them to sign up for the membership would be by offering promotions to do so, for example for going to certain place or visit a restaurant.
+
 2)Use social media to market the benefits of biking and our app and why a membership is worth it.
+
 3) Create a  more customized membership for the casual since they are using differently and traveling less, we should create a membership that adjusts to them.
